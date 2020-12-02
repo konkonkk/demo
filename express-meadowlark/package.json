@@ -1,0 +1,24 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/konkonkk/demo.git"
+  },
+  "author": "ljh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konkonkk/demo/issues"
+  },
+  "homepage": "https://github.com/konkonkk/demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
